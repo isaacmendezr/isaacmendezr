@@ -111,4 +111,6 @@ I believe clean architecture, collaboration, and attention to detail are key to 
 ---
 
 <!-- FOOTER -->
-*“Good software grows from collaboration, curiosity, and continuous learning.”*
+<p align="center">
+  <em>“Good software grows from collaboration, curiosity, and continuous learning.”</em>
+</p>
