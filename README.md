@@ -12,7 +12,7 @@
 ## 👤 About Me
 I’m a Systems Engineer focused on developing robust, efficient, and maintainable software.  
 I prioritize solid architecture, clean code, and clear documentation to ensure reliability and scalability over time.  
-I’m interested in how good design and thoughtful implementation lead to better software.
+I value how good design and thoughtful implementation lead to better software.
 
 ---
 
